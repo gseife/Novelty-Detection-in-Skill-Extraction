@@ -1,0 +1,1921 @@
+[
+    {
+        "id": "30587566",
+        "existing_skills": [],
+        "existing_skill_phrases": [],
+        "mismatch_skills": [],
+        "match_results": [
+            {
+                "mismatch_skill": "",
+                "x28_skill": "",
+                "status": "no-skill",
+                "distance": 0
+            }
+        ]
+    },
+    {
+        "id": "30788687",
+        "existing_skills": [
+            "Gesundheitsförderung durchführen",
+            "Grundkenntnis ausbilden",
+            "Prophylaxe durchführen",
+            "Zahnbürste unterstützen",
+            "Prophylaxe durchführen",
+            "Einsatzplan erstellen",
+            "Weiterbildungen besuchen",
+            "Schulzahnpflege-Instruktor betreuen",
+            "Klassenlehrperson beraten",
+            "Kinderarbeit leisten",
+            "Selbständig arbeiten",
+            "Gutes Erscheinungsbild haben"
+        ],
+        "existing_skill_phrases": [
+            "Gesundheitsförderung durchführen",
+            "Grundkenntnisse vermitteln",
+            "Prophylaxe Lektionen durchführen",
+            "Zahnbürstentechnik instruieren",
+            "Kariesprophylaxe durchführen",
+            "Einsatzplan erstellen",
+            "Weiterbildungen besuchen",
+            "Schulzahnpflege - Instruktor / in weiterbilden",
+            "Kooperation mit Klassenlehrpersonen",
+            "Arbeit mit Kindern",
+            "selbständige Arbeit",
+            "gepflegtes Erscheinungsbild"
+        ],
+        "mismatch_skills": [
+            "Grundkenntnisse vermitteln",
+            "Prophylaxe Lektionen durchführen",
+            "Zahnbürstentechnik instruieren",
+            "Kariesprophylaxe durchführen",
+            "Schulzahnpflege Instruktor weiterbilden",
+            "Kooperation durchführen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Grundkenntnisse vermitteln",
+                "x28_skill": "Grundkenntnis ausbilden",
+                "status": "novelty-detection-fail",
+                "distance": 0.82
+            },
+            {
+                "mismatch_skill": "Prophylaxe Lektionen durchführen",
+                "x28_skill": "Prophylaxe durchführen",
+                "status": "novelty-detection-fail",
+                "distance": 0.64
+            },
+            {
+                "mismatch_skill": "Zahnbürstentechnik instruieren",
+                "x28_skill": "Zahnbürste unterstützen",
+                "status": "novelty-detection-fail",
+                "distance": 0.99
+            },
+            {
+                "mismatch_skill": "Kariesprophylaxe durchführen",
+                "x28_skill": "Prophylaxe durchführen",
+                "status": "novelty-detection-fail",
+                "distance": 0.74
+            },
+            {
+                "mismatch_skill": "Schulzahnpflege Instruktor weiterbilden",
+                "x28_skill": "Schulzahnpflege-Instruktor betreuen",
+                "status": "novelty-detection-fail",
+                "distance": 0.87
+            },
+            {
+                "mismatch_skill": "Kooperation durchführen",
+                "x28_skill": "Kooperation durchführen",
+                "status": "match-fail",
+                "distance": 0.0
+            }
+        ]
+    },
+    {
+        "id": "32490511",
+        "existing_skills": [
+            "Transformationsprojekt leiten",
+            "Externe Kommunikation führen",
+            "Infrastrukturen betreiben",
+            "Cloud Spanner nutzen",
+            "Poster herstellen",
+            "Kollaboration pflegen",
+            "Identité konfigurieren",
+            "ExpensAble nutzen",
+            "Verantwortung ablegen",
+            "Qualitätssicherung leiten",
+            "ExpensAble nutzen",
+            "Projekt strukturieren",
+            "Animation erstellen",
+            "Governance etablieren",
+            "Kollaboration pflegen",
+            "Garantie bearbeiten",
+            "Expertise erstellen",
+            "Kollaboration pflegen",
+            "Kollaboration pflegen",
+            "Informatikprojekt kontrollieren",
+            "Projektmanagement-Methode anwenden",
+            "Communicator nutzen",
+            "Präsentationsfähigkeiten entwickeln",
+            "Analyse erstellen",
+            "Synthese durchführen",
+            "Applikation nutzen",
+            "Usability gewährleisten",
+            "Disciplin durchsetzen",
+            "Kaderniveau messen",
+            "Sprachniveau einschätzen",
+            "Mobilität fördern"
+        ],
+        "existing_skill_phrases": [
+            "Projets de transformation réaliser",
+            "Externalisation réaliser",
+            "Infrastructure gérer",
+            "Cloud gérer",
+            "Poste de travail gérer",
+            "Solutions de collaboration gérer",
+            "Sécurité gérer",
+            "Périmètre responsable",
+            "Délai responsable",
+            "Qualité responsable",
+            "Coût responsable",
+            "Mise en place de la structure de projet",
+            "Animation de la structure de projet",
+            "Gouvernance piloter",
+            "Collaboration avec les équipes d'exploitation",
+            "Mise en opération garantir",
+            "Partage d'expertise en gestion de projet",
+            "Collaboration avec les équipes commerciales",
+            "Élaboration d'offres",
+            "Gestion de projets informatiques maîtriser",
+            "Méthodologies de gestion de projet maîtriser",
+            "Compétences en communication développer",
+            "Compétences en présentation développer",
+            "Analyse réaliser",
+            "Synthèse réaliser",
+            "Rigueur appliquer",
+            "Fiabilité appliquer",
+            "Discipline personnelle appliquer",
+            "Niveau de français maîtriser",
+            "Niveau d'anglais maîtriser",
+            "Mobilité assurer"
+        ],
+        "mismatch_skills": [
+            "Externalisierung durchführen",
+            "Infrastruktur verwalten",
+            "Cloud verwalten",
+            "Arbeitsplatz verwalten",
+            "Kollaborationslösungen verwalten",
+            "Sicherheit verwalten",
+            "Projektumfang verantworten",
+            "Projektlaufzeit verantworten",
+            "Projektkosten verantworten",
+            "Projektstruktur aufbauen",
+            "Projektstruktur beleben",
+            "Projekt Governance steuern",
+            "Inbetriebnahme garantieren",
+            "Angebote ausarbeiten",
+            "Französisch beherrschen",
+            "Englisch beherrschen",
+            "Zuverlässigkeit gewährleisten",
+            "Sorgfalt anwenden"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Externalisierung durchführen",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 1.72
+            },
+            {
+                "mismatch_skill": "Infrastruktur verwalten",
+                "x28_skill": "Infrastruktur verwalten",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Cloud verwalten",
+                "x28_skill": "Cloud-Systeme verwalten",
+                "status": "match-fail",
+                "distance": 0.87
+            },
+            {
+                "mismatch_skill": "Arbeitsplatz verwalten",
+                "x28_skill": "Arbeitsplatz gestalten",
+                "status": "match-fail",
+                "distance": 0.55
+            },
+            {
+                "mismatch_skill": "Kollaborationslösungen verwalten",
+                "x28_skill": "Kollaboration pflegen",
+                "status": "novelty-detection-fail",
+                "distance": 1.0
+            },
+            {
+                "mismatch_skill": "Sicherheit verwalten",
+                "x28_skill": "Sicherheit sicherstellen",
+                "status": "match-fail",
+                "distance": 0.69
+            },
+            {
+                "mismatch_skill": "Projektumfang verantworten",
+                "x28_skill": "Projektumfang verwalten",
+                "status": "match-fail",
+                "distance": 0.51
+            },
+            {
+                "mismatch_skill": "Projektlaufzeit verantworten",
+                "x28_skill": "Projekt verantworten",
+                "status": "match-fail",
+                "distance": 1.24
+            },
+            {
+                "mismatch_skill": "Projektkosten verantworten",
+                "x28_skill": "Projektkosten managen",
+                "status": "match-fail",
+                "distance": 0.71
+            },
+            {
+                "mismatch_skill": "Projektstruktur aufbauen",
+                "x28_skill": "Projektstruktur festlegen",
+                "status": "match-fail",
+                "distance": 0.74
+            },
+            {
+                "mismatch_skill": "Projektstruktur beleben",
+                "x28_skill": "Projektstruktur festlegen",
+                "status": "match-fail",
+                "distance": 0.72
+            },
+            {
+                "mismatch_skill": "Projekt Governance steuern",
+                "x28_skill": "Projekt steuern",
+                "status": "match-fail",
+                "distance": 1.04
+            },
+            {
+                "mismatch_skill": "Inbetriebnahme garantieren",
+                "x28_skill": "Inbetriebnahme unterstützen",
+                "status": "match-fail",
+                "distance": 1.19
+            },
+            {
+                "mismatch_skill": "Angebote ausarbeiten",
+                "x28_skill": "Angebot ausarbeiten",
+                "status": "match-fail",
+                "distance": 0.36
+            },
+            {
+                "mismatch_skill": "Französisch beherrschen",
+                "x28_skill": "Französisch sprechen",
+                "status": "match-fail",
+                "distance": 0.66
+            },
+            {
+                "mismatch_skill": "Englisch beherrschen",
+                "x28_skill": "Englisch sprechen",
+                "status": "match-fail",
+                "distance": 0.87
+            },
+            {
+                "mismatch_skill": "Zuverlässigkeit gewährleisten",
+                "x28_skill": "Zuverlässigkeit sicherstellen",
+                "status": "match-fail",
+                "distance": 0.54
+            },
+            {
+                "mismatch_skill": "Sorgfalt anwenden",
+                "x28_skill": "Sorgfalt anwenden",
+                "status": "match-fail",
+                "distance": 0.0
+            }
+        ]
+    },
+    {
+        "id": "30437645",
+        "existing_skills": [
+            "Pädagogische Konzepte umsetzen",
+            "Teams formen",
+            "Kind pflegen",
+            "Pädagogische Arbeit leisten",
+            "Pädagogische Arbeit leisten",
+            "Gruppe begleiten",
+            "Kinder fördern",
+            "Lernprozesse unterstützen",
+            "Kinderbetreuung leisten",
+            "Pädagogische Konzepte umsetzen"
+        ],
+        "existing_skill_phrases": [
+            "pädagogische Haltung teilen",
+            "Teamspirit teilen",
+            "Umgang mit den Kindern pflegen",
+            "pädagogische Aktivitäten planen",
+            "pädagogische Aktivitäten durchführen",
+            "Kindergruppe begleiten",
+            "Kindergruppe fördern",
+            "Lernprozess unterstützen",
+            "verantwortungsvolle Betreuung der Kinder",
+            "pädagogische Konzepte umsetzen"
+        ],
+        "mismatch_skills": [
+            "Pädagogische Haltung teilen",
+            "Teamspirit teilen",
+            "Pädagogische Aktivitäten planen",
+            "Pädagogische Aktivitäten durchführen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Pädagogische Haltung teilen",
+                "x28_skill": "Pädagogische Konzepte gestalten",
+                "status": "match-fail",
+                "distance": 1.03
+            },
+            {
+                "mismatch_skill": "Teamspirit teilen",
+                "x28_skill": "Teams formen",
+                "status": "novelty-detection-fail",
+                "distance": 1.69
+            },
+            {
+                "mismatch_skill": "Pädagogische Aktivitäten planen",
+                "x28_skill": "Pädagogische Arbeit leisten",
+                "status": "novelty-detection-fail",
+                "distance": 1.03
+            },
+            {
+                "mismatch_skill": "Pädagogische Aktivitäten durchführen",
+                "x28_skill": "Pädagogische Arbeit leisten",
+                "status": "novelty-detection-fail",
+                "distance": 0.88
+            }
+        ]
+    },
+    {
+        "id": "30057638",
+        "existing_skills": [
+            "Schüler beraten",
+            "Klassenlehrperson beraten",
+            "Fachlehrperson beraten",
+            "Schule gestalten",
+            "Bereich erfahren",
+            "Unterricht erstellen",
+            "Entwicklung fördern",
+            "Interpersonale Kommunikation",
+            "Teamfähigkeit zeigen",
+            "Lösungsorientiert handeln",
+            "EDV-Kenntnisse anwenden"
+        ],
+        "existing_skill_phrases": [
+            "Schüler unterrichten",
+            "Zusammenarbeit mit Klassenlehrpersonen",
+            "Kooperation mit Fachlehrpersonen",
+            "Mitwirkung an der Gestaltung der Schule",
+            "Erfahrung im Sonderschulbereich",
+            "Unterricht ausrichten",
+            "individuelle Entwicklung fördern",
+            "kommunikative Person",
+            "Teamfähigkeit",
+            "lösungsorientiert arbeiten",
+            "EDV-Kenntnisse"
+        ],
+        "mismatch_skills": [
+            "Schüler unterrichten",
+            "Sonderschulbereich erfahren"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Schüler unterrichten",
+                "x28_skill": "Schüler beraten",
+                "status": "novelty-detection-fail",
+                "distance": 0.89
+            },
+            {
+                "mismatch_skill": "Sonderschulbereich erfahren",
+                "x28_skill": "Bereich erfahren",
+                "status": "novelty-detection-fail",
+                "distance": 1.33
+            }
+        ]
+    },
+    {
+        "id": "30801663",
+        "existing_skills": [],
+        "existing_skill_phrases": [],
+        "mismatch_skills": [],
+        "match_results": [
+            {
+                "mismatch_skill": "",
+                "x28_skill": "",
+                "status": "no-skill",
+                "distance": 0
+            }
+        ]
+    },
+    {
+        "id": "29911427",
+        "existing_skills": [
+            "Service liefern",
+            "Unterkunftssuche unterstützen",
+            "Dokumentation erstellen",
+            "Hotel buchen",
+            "Abholung vorbereiten",
+            "Vor-Ort-Dienstleistung durchführen",
+            "Beziehungen aufbauen",
+            "Finanzziele festlegen",
+            "Operativen Betrieb sicherstellen",
+            "Kundenservice bieten",
+            "Probleme lösen",
+            "Eigeninitiative ergreifen",
+            "Aufgaben verteilen",
+            "Kommunikation durchführen",
+            "MS-Office-Anwendung beherrschen",
+            "Hotelreservierungen durchführen",
+            "Reisen planen"
+        ],
+        "existing_skill_phrases": [
+            "Service liefern",
+            "Unterkunftsstrategie unterstützen",
+            "Dokumentation erstellen",
+            "Hotelbuchungen verwalten",
+            "Abholung reconciliieren",
+            "Vor-Ort-Dienste durchführen",
+            "Beziehungen aufbauen und pflegen",
+            "Finanzziele erreichen",
+            "Operative Effizienz sicherstellen",
+            "Kundenservice bieten",
+            "Probleme lösen",
+            "Initiative ergreifen",
+            "Aufgaben verwalten",
+            "Kommunikation durchführen",
+            "MS Office beherrschen",
+            "Hotelreservierungssysteme kennen",
+            "Reisen planen"
+        ],
+        "mismatch_skills": [
+            "Unterkunftsstrategie entwickeln",
+            "Hotelbuchungen verwalten",
+            "Abholung abstimmen",
+            "Operative Effizienz sicherstellen",
+            "Initiative ergreifen",
+            "Aufgaben verwalten",
+            "Hotelreservierungssysteme kennen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Unterkunftsstrategie entwickeln",
+                "x28_skill": "Unterkunftssuche unterstützen",
+                "status": "novelty-detection-fail",
+                "distance": 1.25
+            },
+            {
+                "mismatch_skill": "Hotelbuchungen verwalten",
+                "x28_skill": "Hotel buchen",
+                "status": "novelty-detection-fail",
+                "distance": 1.33
+            },
+            {
+                "mismatch_skill": "Abholung abstimmen",
+                "x28_skill": "Abgrenzung abstimmen",
+                "status": "match-fail",
+                "distance": 1.18
+            },
+            {
+                "mismatch_skill": "Operative Effizienz sicherstellen",
+                "x28_skill": "Operativen Betrieb sicherstellen",
+                "status": "novelty-detection-fail",
+                "distance": 1.11
+            },
+            {
+                "mismatch_skill": "Initiative ergreifen",
+                "x28_skill": "Eigeninitiative ergreifen",
+                "status": "novelty-detection-fail",
+                "distance": 0.43
+            },
+            {
+                "mismatch_skill": "Aufgaben verwalten",
+                "x28_skill": "Aufgaben verteilen",
+                "status": "novelty-detection-fail",
+                "distance": 0.75
+            },
+            {
+                "mismatch_skill": "Hotelreservierungssysteme kennen",
+                "x28_skill": "Hotelreservierungen durchführen",
+                "status": "novelty-detection-fail",
+                "distance": 0.72
+            }
+        ]
+    },
+    {
+        "id": "30099592",
+        "existing_skills": [
+            "Reitunterricht erteilen",
+            "Absprachen treffen",
+            "Stabsfunktion übernehmen",
+            "Team anführen",
+            "Idee einbringen",
+            "Schulklima verbessern",
+            "Schulteam unterstützen",
+            "Unterstützung unterstützen"
+        ],
+        "existing_skill_phrases": [
+            "Fachunterricht erteilen",
+            "Absprachen treffen",
+            "Funktionen übernehmen",
+            "Team integrieren",
+            "Ideen einbringen",
+            "Schulklima fördern",
+            "Teil eines Schulteams sein",
+            "Unterstützung erhalten"
+        ],
+        "mismatch_skills": [
+            "Fachunterricht erteilen",
+            "Team integrieren",
+            "Schulklima fördern",
+            "Teil eines Schulteams sein",
+            "Unterstützung erhalten"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Fachunterricht erteilen",
+                "x28_skill": "Reitunterricht erteilen",
+                "status": "novelty-detection-fail",
+                "distance": 0.67
+            },
+            {
+                "mismatch_skill": "Team integrieren",
+                "x28_skill": "Team anführen",
+                "status": "novelty-detection-fail",
+                "distance": 1.3
+            },
+            {
+                "mismatch_skill": "Schulklima fördern",
+                "x28_skill": "Schulklima verbessern",
+                "status": "novelty-detection-fail",
+                "distance": 0.53
+            },
+            {
+                "mismatch_skill": "Teil eines Schulteams sein",
+                "x28_skill": "Schulteam unterstützen",
+                "status": "novelty-detection-fail",
+                "distance": 1.38
+            },
+            {
+                "mismatch_skill": "Unterstützung erhalten",
+                "x28_skill": "Unterstützung unterstützen",
+                "status": "novelty-detection-fail",
+                "distance": 0.61
+            }
+        ]
+    },
+    {
+        "id": "31679322",
+        "existing_skills": [
+            "Prozess entwickeln",
+            "Prozesse optimieren",
+            "Handlungsempfehlung ableiten",
+            "Datenanalysen durchführen",
+            "Prozessbewertung durchführen",
+            "Standards umsetzen",
+            "Information extrahieren",
+            "Daten bereinigen",
+            "Stammdaten beschaffen",
+            "Analyseergebnis weitergeben",
+            "Prozesse verbessern",
+            "Interdisziplinäre Projekte leiten",
+            "Prozessentwicklung gestalten",
+            "Datenanalyse leiten",
+            "Qualitätskontrolle führen",
+            "Technologien implementieren",
+            "Analytische Fähigkeiten stärken",
+            "Datenmenge optimieren",
+            "Prozessverbesserung umsetzen",
+            "Kommunikationsfähigkeiten nutzen",
+            "Teamfähigkeiten entwickeln"
+        ],
+        "existing_skill_phrases": [
+            "Prozesse entwickeln",
+            "Prozesse optimieren",
+            "Handlungsempfehlungen ableiten",
+            "Datenanalysen durchführen",
+            "Prozessbewertungen durchführen",
+            "Standards und Richtlinien umsetzen",
+            "Wissen extrahieren",
+            "Daten bereinigen",
+            "Daten beschaffen",
+            "Analyseergebnisse überführen",
+            "Prozesse verbessern",
+            "interdisziplinäre Projekte mitarbeiten",
+            "Prozessentwicklung",
+            "Datenanalyse",
+            "Qualitätskontrolle",
+            "Technologien implementieren",
+            "analytische Fähigkeiten",
+            "grosse Datenmengen bearbeiten",
+            "Methoden zur Prozessverbesserung anwenden",
+            "Kommunikationsfähigkeiten",
+            "Teamfähigkeiten"
+        ],
+        "mismatch_skills": [
+            "Grosse Datenmengen bearbeiten",
+            "Six Sigma anwenden",
+            "Richtlinien umsetzen",
+            "Wissen extrahieren",
+            "Analyseergebnisse überführen",
+            "Interdisziplinäre Projekte mitarbeiten"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Grosse Datenmengen bearbeiten",
+                "x28_skill": "Datenmenge optimieren",
+                "status": "novelty-detection-fail",
+                "distance": 1.31
+            },
+            {
+                "mismatch_skill": "Six Sigma anwenden",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 2.31
+            },
+            {
+                "mismatch_skill": "Richtlinien umsetzen",
+                "x28_skill": "Richtlinien umsetzen",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Wissen extrahieren",
+                "x28_skill": "Information extrahieren",
+                "status": "novelty-detection-fail",
+                "distance": 1.05
+            },
+            {
+                "mismatch_skill": "Analyseergebnisse überführen",
+                "x28_skill": "Analyseergebnis weitergeben",
+                "status": "novelty-detection-fail",
+                "distance": 0.68
+            },
+            {
+                "mismatch_skill": "Interdisziplinäre Projekte mitarbeiten",
+                "x28_skill": "Interdisziplinäre Projekte leiten",
+                "status": "novelty-detection-fail",
+                "distance": 0.24
+            }
+        ]
+    },
+    {
+        "id": "32559686",
+        "existing_skills": [
+            "Vertragsmanagement durchführen",
+            "Verkaufsmöglichkeiten identifizieren",
+            "Profitabilität sicherstellen",
+            "Kundenbeziehungen pflegen",
+            "Vertragsänderung verantworten",
+            "Kundenanfragen bearbeiten",
+            "Angebote erstellen",
+            "Vertragsverhandlungen leiten",
+            "Fakturierung sicherstellen",
+            "Vertrauenswürdig sein",
+            "Kundenportfolios managen",
+            "Betriebswirtschaftliches Verständnis zeigen",
+            "B2B-Angebot weiterentwickeln",
+            "Account-Management betreiben",
+            "Serviceprozess analysieren",
+            "Kommunikationsfähigkeiten nutzen",
+            "Beziehungsmanagement führen",
+            "Cross-Selling-Möglichkeit ermitteln",
+            "Teamführung üben"
+        ],
+        "existing_skill_phrases": [
+            "Vertragsmanagement",
+            "Up - und Cross - Selling - Möglichkeiten identifizieren und realisieren",
+            "Verbesserung der Profitabilität sicherstellen",
+            "Aufbau und Pflege von Kundenbeziehungen",
+            "Verantwortung für laufende Verträge und Änderungen",
+            "Professionelle Bearbeitung von Kundenanfragen",
+            "Erstellung massgeschneiderter Angebote",
+            "Strategische Verhandlung von Vertragserweiterungen",
+            "Sicherstellung der vertragskonformen Fakturierung",
+            "Vertrauenswürdige Vertretung auf Managementebene",
+            "Führung eines umfangreichen Kundenportfolios",
+            "Fundiertes betriebswirtschaftliches und technisches Verständnis",
+            "Erfahrung im B2B - Vertrieb",
+            "Erfahrung als Key Account Manager oder Engagement Manager",
+            "Solides Verständnis von Kunden - und Serviceprozessen",
+            "Sehr gute Kommunikationsfähigkeiten",
+            "Know - how im Beziehungsmanagement",
+            "Fähigkeit, Up - und Cross - Selling - Möglichkeiten erkennen",
+            "Hohe Teamorientierung"
+        ],
+        "mismatch_skills": [
+            "Up-Selling realisieren",
+            "Cross-Selling realisieren",
+            "Kundenanfragen professionell bearbeiten",
+            "Vertragserweiterungen strategisch verhandeln",
+            "Umsatzvolumen führen",
+            "Technisches Verständnis zeigen",
+            "B2B Vertriebserfahrung haben",
+            "Teamorientiert sein",
+            "Kundenprozesse verstehen",
+            "Serviceprozesse verstehen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Up-Selling realisieren",
+                "x28_skill": "Up-Selling durchführen",
+                "status": "match-fail",
+                "distance": 0.65
+            },
+            {
+                "mismatch_skill": "Cross-Selling realisieren",
+                "x28_skill": "Cross-Selling nutzen",
+                "status": "match-fail",
+                "distance": 0.56
+            },
+            {
+                "mismatch_skill": "Kundenanfragen professionell bearbeiten",
+                "x28_skill": "Kundenanfragen bearbeiten",
+                "status": "novelty-detection-fail",
+                "distance": 0.85
+            },
+            {
+                "mismatch_skill": "Vertragserweiterungen strategisch verhandeln",
+                "x28_skill": "Vertrag verhandeln",
+                "status": "match-fail",
+                "distance": 1.16
+            },
+            {
+                "mismatch_skill": "Umsatzvolumen führen",
+                "x28_skill": "Umsatz erfassen",
+                "status": "match-fail",
+                "distance": 1.37
+            },
+            {
+                "mismatch_skill": "Technisches Verständnis zeigen",
+                "x28_skill": "Technisches Verständnis zeigen",
+                "status": "match-fail",
+                "distance": -0.0
+            },
+            {
+                "mismatch_skill": "B2B Vertriebserfahrung haben",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 1.78
+            },
+            {
+                "mismatch_skill": "Teamorientiert sein",
+                "x28_skill": "Team repräsentieren",
+                "status": "match-fail",
+                "distance": 1.7
+            },
+            {
+                "mismatch_skill": "Kundenprozesse verstehen",
+                "x28_skill": "Kundenpräferenzen verstehen",
+                "status": "match-fail",
+                "distance": 1.05
+            },
+            {
+                "mismatch_skill": "Serviceprozesse verstehen",
+                "x28_skill": "Serviceprozesse definieren",
+                "status": "match-fail",
+                "distance": 0.59
+            }
+        ]
+    },
+    {
+        "id": "31732521",
+        "existing_skills": [
+            "Strategische Planung durchführen",
+            "Marktanalysen durchführen",
+            "Produktmanagement leiten",
+            "Geschäftsanalyse durchführen",
+            "Wettbewerbsanalyse durchführen",
+            "Marketingstrategien erstellen",
+            "Implementierung sicherstellen",
+            "Geschäftsentwicklung verstehen",
+            "Geschäftstrends vorhersagen",
+            "Portfolioanalyse durchführen",
+            "Strategieentwicklungen beitragen",
+            "Marktforschungsprojekt strukturieren",
+            "Geschäftspartner beraten",
+            "Kooperation entwickeln",
+            "Mit Behörden kommunizieren",
+            "Geschäftsideen entwickeln",
+            "Geschäftsmöglichkeit entwickeln",
+            "IT-Tools bedienen",
+            "Sprachkenntnisse nutzen",
+            "Technische Anleitungen verfassen",
+            "Vertriebserfolg bewerten",
+            "Kundenservice leiten",
+            "Projektmanagement führen",
+            "Führungskompetenzen ausüben",
+            "Reisebereitschaft zeigen",
+            "Betriebswirtschaftliche Kenntnisse anwenden",
+            "Medizinisches Wissen anwenden"
+        ],
+        "existing_skill_phrases": [
+            "strategische Planung durchführen",
+            "Marktanalysen durchführen",
+            "Produktmanagement",
+            "Geschäftsanalyse durchführen",
+            "Wettbewerbsanalyse durchführen",
+            "Marketingstrategien definieren",
+            "Implementierung von Strategien sicherstellen",
+            "Geschäftsentwicklung verwalten",
+            "Geschäftsvorhersagen bereitstellen",
+            "Portfolioanforderungen sammeln",
+            "Projekte mit strategischer Perspektive beitragen",
+            "Markt- und Geschäftsforschungsprogramme verwalten",
+            "potenzielle Geschäftspartner evaluieren",
+            "Kooperationen mit potenziellen Partnern entwickeln",
+            "mit Regierungsbehörden kommunizieren",
+            "Geschäftsideen entwickeln",
+            "Geschäftsmöglichkeiten generieren",
+            "IT-Tools Kenntnisse",
+            "Sprachkenntnisse (Englisch, Deutsch, Französisch, CEE-Sprachen)",
+            "technische Erfahrung",
+            "Vertriebserfahrung",
+            "Kundenservice Erfahrung",
+            "Projektmanagement",
+            "Führungskompetenzen",
+            "Reisebereitschaft",
+            "betriebswirtschaftliche Kenntnisse",
+            "medizinisches Wissen"
+        ],
+        "mismatch_skills": [
+            "Portfolioanforderungen sammeln",
+            "Vertriebserfolg erzielen",
+            "Technische Erfahrung anwenden",
+            "Kundenservice bieten"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Portfolioanforderungen sammeln",
+                "x28_skill": "Portfolioanalyse durchführen",
+                "status": "novelty-detection-fail",
+                "distance": 1.25
+            },
+            {
+                "mismatch_skill": "Vertriebserfolg erzielen",
+                "x28_skill": "Vertriebserfolg bewerten",
+                "status": "novelty-detection-fail",
+                "distance": 0.64
+            },
+            {
+                "mismatch_skill": "Technische Erfahrung anwenden",
+                "x28_skill": "Technisches Wissen anwenden",
+                "status": "match-fail",
+                "distance": 1.17
+            },
+            {
+                "mismatch_skill": "Kundenservice bieten",
+                "x28_skill": "Kundenservice bieten",
+                "status": "match-fail",
+                "distance": 0.0
+            }
+        ]
+    },
+    {
+        "id": "32462949",
+        "existing_skills": [
+            "Zusammenarbeit mit",
+            "Produkt einkaufen",
+            "Bewirtschaftung lagern",
+            "Preisgestaltung verhandeln",
+            "Marktbeobachtung planen",
+            "Produktmanagement leiten",
+            "Einkauf tätigen",
+            "Technologie leiten",
+            "Teamfähigkeit zeigen",
+            "Kommunikationsfähigkeiten nutzen",
+            "Verhandlungsfähigkeiten nutzen",
+            "Selbstständigkeit fördern",
+            "Organisationstalent zeigen",
+            "Dynamisch sein",
+            "Einstellung festlegen",
+            "MS-Office bedienen",
+            "Deutschunterricht geben",
+            "Englisch sprechen",
+            "Microsoft Lync nutzen"
+        ],
+        "existing_skill_phrases": [
+            "enge Zusammenarbeit mit Herstellern",
+            "Einkauf von Produkten",
+            "Lagerbewirtschaftung",
+            "Preisgestaltung und Verhandlungen",
+            "Marktbeobachtung und Trendanalyse",
+            "Erfahrung im Produktmanagement",
+            "Erfahrung im Einkauf",
+            "Leidenschaft für Mobiltechnologie",
+            "Teamfähigkeit",
+            "Kommunikationsfähigkeiten",
+            "Verhandlungsfähigkeiten",
+            "Selbstständigkeit",
+            "Organisationstalent",
+            "Fähigkeit, in einem dynamischen Umfeld zu arbeiten",
+            "proaktive Einstellung",
+            "sicherer Umgang mit MS Office",
+            "sehr gute Deutschkenntnisse",
+            "sehr gute Englischkenntnisse",
+            "Microsoft BC Erfahrung"
+        ],
+        "mismatch_skills": [
+            "Mobiltechnologie verstehen",
+            "Bedarfsplanung durchführen",
+            "Trendanalysen durchführen",
+            "Beziehungen pflegen",
+            "Sortiment sicherstellen",
+            "Verfügbarkeit sicherstellen",
+            "Bedingungen sichern",
+            "Umfeld arbeiten",
+            "Mobiltelefone vertreiben",
+            "Microsoft Business Central nutzen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Mobiltechnologie verstehen",
+                "x28_skill": "Technologie verstehen",
+                "status": "match-fail",
+                "distance": 0.97
+            },
+            {
+                "mismatch_skill": "Bedarfsplanung durchführen",
+                "x28_skill": "Bedarfsplanung durchführen",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Trendanalysen durchführen",
+                "x28_skill": "Trendanalysen durchführen",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Beziehungen pflegen",
+                "x28_skill": "Beziehungen pflegen",
+                "status": "match-fail",
+                "distance": -0.0
+            },
+            {
+                "mismatch_skill": "Sortiment sicherstellen",
+                "x28_skill": "Sortimentspflege sicherstellen",
+                "status": "match-fail",
+                "distance": 0.6
+            },
+            {
+                "mismatch_skill": "Verfügbarkeit sicherstellen",
+                "x28_skill": "Verfügbarkeit sicherstellen",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Bedingungen sichern",
+                "x28_skill": "Sicherheitsbedingungen gewährleisten",
+                "status": "match-fail",
+                "distance": 1.13
+            },
+            {
+                "mismatch_skill": "Umfeld arbeiten",
+                "x28_skill": "Arbeitsumfeld gestalten",
+                "status": "match-fail",
+                "distance": 1.15
+            },
+            {
+                "mismatch_skill": "Mobiltelefone vertreiben",
+                "x28_skill": "Mobiltelefon verwalten",
+                "status": "match-fail",
+                "distance": 0.65
+            },
+            {
+                "mismatch_skill": "Microsoft Business Central nutzen",
+                "x28_skill": "D365 Business Central nutzen",
+                "status": "match-fail",
+                "distance": 1.33
+            }
+        ]
+    },
+    {
+        "id": "29878223",
+        "existing_skills": [
+            "Lernende begleiten",
+            "Unterrichtsqualität sicherstellen",
+            "Zusammenarbeit mit",
+            "Erziehungsberechtigter begleiten",
+            "Zusammenarbeit mit",
+            "Schüler anleiten",
+            "Schüler fördern",
+            "Kommunikation verwalten"
+        ],
+        "existing_skill_phrases": [
+            "Lernende begleiten",
+            "Unterrichtsqualität sicherstellen",
+            "Zusammenarbeit mit Lehrerkolleginnen und -kollegen",
+            "Zusammenarbeit mit Erziehungsberechtigten",
+            "Zusammenarbeit mit Schuldiensten",
+            "Schülerinnen und Schüler leiten",
+            "Schülerinnen und Schüler fördern",
+            "positive Kommunikationshaltung verfügen"
+        ],
+        "mismatch_skills": [
+            "Mit Lehrerkollegen zusammenarbeiten",
+            "Mit Schuldiensten zusammenarbeiten",
+            "Positive Kommunikationshaltung zeigen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Mit Lehrerkollegen zusammenarbeiten",
+                "x28_skill": "Mit Mitarbeitenden zusammenarbeiten",
+                "status": "match-fail",
+                "distance": 1.47
+            },
+            {
+                "mismatch_skill": "Mit Schuldiensten zusammenarbeiten",
+                "x28_skill": "Zusammenarbeit mit",
+                "status": "novelty-detection-fail",
+                "distance": 1.24
+            },
+            {
+                "mismatch_skill": "Positive Kommunikationshaltung zeigen",
+                "x28_skill": "Kommunikation zeigen",
+                "status": "match-fail",
+                "distance": 1.03
+            }
+        ]
+    },
+    {
+        "id": "30315094",
+        "existing_skills": [
+            "Schulleitung unterstützen",
+            "Sekretariatsarbeit durchführen",
+            "Korrespondenz verwalten",
+            "Webseite verwalten",
+            "Schulverwaltung führen",
+            "Schulverwaltung führen",
+            "Deutsch schreiben",
+            "IT-Kenntnisse anwenden",
+            "Organisatorisches Wissen anwenden",
+            "Administrative Aufgaben ausführen",
+            "Verschwiegenheit wahren",
+            "Teamfähigkeit zeigen",
+            "Flexibilität zeigen",
+            "Flexibilität zeigen"
+        ],
+        "existing_skill_phrases": [
+            "Schulleitungen unterstützen",
+            "Sekretariatsarbeiten",
+            "Korrespondenz",
+            "Schulwebseite verwalten",
+            "Koordination mit der Schulverwaltung",
+            "Schulverwaltungserfahrungen",
+            "Ausdrucksweise in Deutsch (mündlich und schriftlich)",
+            "IT-Kenntnisse",
+            "organisatorisches Geschick",
+            "administrative Aufgaben",
+            "Verschwiegenheit",
+            "Teamfähigkeit",
+            "Flexibilität in den Arbeitszeiten",
+            "Flexibilität beim Arbeitseinsatzort"
+        ],
+        "mismatch_skills": [
+            "Schulwebseite verwalten"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Schulwebseite verwalten",
+                "x28_skill": "Webseite verwalten",
+                "status": "novelty-detection-fail",
+                "distance": 1.15
+            }
+        ]
+    },
+    {
+        "id": "31227979",
+        "existing_skills": [
+            "Reitunterricht erteilen",
+            "Klassenführung beherrschen",
+            "Klassenlehrperson beraten",
+            "Zusammenarbeit mit",
+            "Zusammenarbeit mit",
+            "Offene Beträge verrechnen",
+            "Wertschätzend sein"
+        ],
+        "existing_skill_phrases": [
+            "Unterricht erteilen",
+            "Klassenführung",
+            "Zusammenarbeit mit Klassenlehrpersonen",
+            "Zusammenarbeit mit Kollegium",
+            "Zusammenarbeit mit Schulleitung",
+            "Offene Haltung",
+            "Wertschätzende Haltung"
+        ],
+        "mismatch_skills": [
+            "Offene Haltung zeigen",
+            "Dynamisches Arbeitsumfeld berücksichtigen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Offene Haltung zeigen",
+                "x28_skill": "Offenheit zeigen",
+                "status": "match-fail",
+                "distance": 1.2
+            },
+            {
+                "mismatch_skill": "Dynamisches Arbeitsumfeld berücksichtigen",
+                "x28_skill": "Dynamisch sein",
+                "status": "match-fail",
+                "distance": 1.67
+            }
+        ]
+    },
+    {
+        "id": "30331856",
+        "existing_skills": [
+            "Unterricht leiten",
+            "Bereich beraten",
+            "Unterstützung unterstützen",
+            "Antrieb fördern",
+            "Teamarbeit üben",
+            "Organisation führen",
+            "Kommunikation führen",
+            "Flexibilität zeigen",
+            "Belastbarkeit zeigen"
+        ],
+        "existing_skill_phrases": [
+            "unterrichten",
+            "beraten",
+            "unterstützen",
+            "fördern",
+            "Teamarbeit",
+            "Organisation",
+            "Kommunikation",
+            "Flexibilität",
+            "Belastbarkeit"
+        ],
+        "mismatch_skills": [
+            "Schüler fördern",
+            "Schüler betreuen",
+            "Schule weiterentwickeln",
+            "Teamteaching anwenden"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Schüler fördern",
+                "x28_skill": "Schüler fördern",
+                "status": "match-fail",
+                "distance": -0.0
+            },
+            {
+                "mismatch_skill": "Schüler betreuen",
+                "x28_skill": "Schüler betreuen",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Schule weiterentwickeln",
+                "x28_skill": "Schule entwickeln",
+                "status": "match-fail",
+                "distance": 0.42
+            },
+            {
+                "mismatch_skill": "Teamteaching anwenden",
+                "x28_skill": "Teamtraining betreuen",
+                "status": "match-fail",
+                "distance": 1.53
+            }
+        ]
+    },
+    {
+        "id": "32104717",
+        "existing_skills": [
+            "Heizungsinstallation ausführen",
+            "Kleinere Installationen vornehmen",
+            "Selbständig arbeiten",
+            "Vorgaben einhalten",
+            "Heizungsinstallation durchführen",
+            "Erkenntnisse präsentieren",
+            "Selbständig arbeiten",
+            "Kundenorientierung umsetzen",
+            "Deutsch schreiben"
+        ],
+        "existing_skill_phrases": [
+            "Heizungs- und Kälteinstallationen ausführen",
+            "Kleininstallationen ausführen",
+            "Selbständig arbeiten",
+            "Vorgaben einhalten",
+            "Berufserfahrung als Heizungsinstallateur",
+            "Kenntnisse im Schweissen und Pressen",
+            "Arbeitsweise (selbstständig, zuverlässig, sorgfältig)",
+            "Team- und Kundenorientierung",
+            "Deutsch in Wort und Schrift"
+        ],
+        "mismatch_skills": [
+            "Kälteinstallation ausführen",
+            "Kenntnisse im Schweissen haben",
+            "Kenntnisse im Pressen haben",
+            "Zuverlässig arbeiten",
+            "Sorgfältig arbeiten",
+            "Fahrausweis Kat. B besitzen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Kälteinstallation ausführen",
+                "x28_skill": "Kälteanlage installieren",
+                "status": "match-fail",
+                "distance": 1.12
+            },
+            {
+                "mismatch_skill": "Kenntnisse im Schweissen haben",
+                "x28_skill": "Kenntnis anwenden",
+                "status": "match-fail",
+                "distance": 1.41
+            },
+            {
+                "mismatch_skill": "Kenntnisse im Pressen haben",
+                "x28_skill": "Presserecht kennen",
+                "status": "match-fail",
+                "distance": 1.52
+            },
+            {
+                "mismatch_skill": "Zuverlässig arbeiten",
+                "x28_skill": "Zuverlässig arbeitén",
+                "status": "match-fail",
+                "distance": 0.46
+            },
+            {
+                "mismatch_skill": "Sorgfältig arbeiten",
+                "x28_skill": "Sorgfältig arbeiten",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Fahrausweis Kat. B besitzen",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 2.3
+            }
+        ]
+    },
+    {
+        "id": "30971861",
+        "existing_skills": [],
+        "existing_skill_phrases": [],
+        "mismatch_skills": [],
+        "match_results": [
+            {
+                "mismatch_skill": "",
+                "x28_skill": "",
+                "status": "no-skill",
+                "distance": 0
+            }
+        ]
+    },
+    {
+        "id": "31740511",
+        "existing_skills": [
+            "Kupferrohrleitung erstellen",
+            "Maschine bedienen",
+            "Betriebsmittel verwalten",
+            "Störungen beheben",
+            "Produktionskennzahlen interpretieren",
+            "Qualitätskontrolle durchführen",
+            "Wartungsarbeiten durchführen",
+            "Entwicklung unterstützen",
+            "Prozessverbesserung unterstützen",
+            "Werkzeugbestand pflegen",
+            "Industrielle Produktion durchführen",
+            "CNC-Bearbeitungszentrum bedienen",
+            "Qualitätsprüfung führen",
+            "Technische Zeichnungen lesen",
+            "Deutsch schreiben",
+            "PC-Technik beherrschen",
+            "Teamfähigkeit zeigen",
+            "Flexibilität zeigen",
+            "Qualitätsbewusstsein haben",
+            "Selbstständiges arbeiten",
+            "Motivation steigern",
+            "Auffassungsgabe nutzen"
+        ],
+        "existing_skill_phrases": [
+            "Kupferbearbeitung unterstützen",
+            "Wipro Maschine einrichten und bedienen",
+            "Betriebsmittel rüsten und verwalten",
+            "Anlage überwachen und Störungen beheben",
+            "Produktionskennzahlen dokumentieren",
+            "Qualitätskontrolle durchführen",
+            "Wartungsarbeiten durchführen",
+            "Neuentwicklungen unterstützen",
+            "Prozessverbesserungen unterstützen",
+            "Werkzeugbestand pflegen und überwachen",
+            "industrielle Fertigung Erfahrung",
+            "CNC-Bearbeitung Kenntnisse",
+            "Qualitätsprüfung Erfahrung",
+            "technische Zeichnungen lesen",
+            "Deutschkenntnisse",
+            "PC-Kenntnisse",
+            "Teamfähigkeit",
+            "Flexibilität",
+            "Qualitätsbewusste Arbeitsweise",
+            "selbstständige Arbeitsweise",
+            "hohe Motivation",
+            "schnelle Auffassungsgabe"
+        ],
+        "mismatch_skills": [
+            "Kupferbearbeitung unterstützen",
+            "Wipro Maschine einrichten und bedienen",
+            "Betriebsmittel rüsten",
+            "Anlage überwachen",
+            "Produktionskennzahlen dokumentieren",
+            "Werkzeugbestand überwachen",
+            "Fertigungserfahrung haben",
+            "CNC-Bearbeitung Kenntnisse haben",
+            "Qualitätsprüfung Erfahrung haben",
+            "Deutschkenntnisse haben",
+            "PC-Kenntnisse haben",
+            "exakte Arbeitsweise haben",
+            "Englischkenntnisse haben"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Kupferbearbeitung unterstützen",
+                "x28_skill": "Kupferrohrleitung erstellen",
+                "status": "novelty-detection-fail",
+                "distance": 1.47
+            },
+            {
+                "mismatch_skill": "Wipro Maschine einrichten und bedienen",
+                "x28_skill": "Maschine bedienen",
+                "status": "novelty-detection-fail",
+                "distance": 1.59
+            },
+            {
+                "mismatch_skill": "Betriebsmittel rüsten",
+                "x28_skill": "Betriebsmittel verwalten",
+                "status": "novelty-detection-fail",
+                "distance": 0.87
+            },
+            {
+                "mismatch_skill": "Anlage überwachen",
+                "x28_skill": "Anlage überwachen",
+                "status": "match-fail",
+                "distance": 0.0
+            },
+            {
+                "mismatch_skill": "Produktionskennzahlen dokumentieren",
+                "x28_skill": "Produktionskennzahlen interpretieren",
+                "status": "novelty-detection-fail",
+                "distance": 0.66
+            },
+            {
+                "mismatch_skill": "Werkzeugbestand überwachen",
+                "x28_skill": "Werkzeugbestand pflegen",
+                "status": "novelty-detection-fail",
+                "distance": 0.72
+            },
+            {
+                "mismatch_skill": "Fertigungserfahrung haben",
+                "x28_skill": "Fertigungsverfahren kennen",
+                "status": "match-fail",
+                "distance": 1.32
+            },
+            {
+                "mismatch_skill": "CNC-Bearbeitung Kenntnisse haben",
+                "x28_skill": "CNC-Bearbeitungszentrum bedienen",
+                "status": "novelty-detection-fail",
+                "distance": 1.09
+            },
+            {
+                "mismatch_skill": "Qualitätsprüfung Erfahrung haben",
+                "x28_skill": "Qualitätsprüfung führen",
+                "status": "novelty-detection-fail",
+                "distance": 0.66
+            },
+            {
+                "mismatch_skill": "Deutschkenntnisse haben",
+                "x28_skill": "Deutsch schreiben",
+                "status": "novelty-detection-fail",
+                "distance": 1.29
+            },
+            {
+                "mismatch_skill": "PC-Kenntnisse haben",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 1.79
+            },
+            {
+                "mismatch_skill": "exakte Arbeitsweise haben",
+                "x28_skill": "Exakte Arbeitsweise haben",
+                "status": "match-fail",
+                "distance": 0.37
+            },
+            {
+                "mismatch_skill": "Englischkenntnisse haben",
+                "x28_skill": "Englisch sprechen",
+                "status": "match-fail",
+                "distance": 1.29
+            }
+        ]
+    },
+    {
+        "id": "31653272",
+        "existing_skills": [],
+        "existing_skill_phrases": [],
+        "mismatch_skills": [],
+        "match_results": [
+            {
+                "mismatch_skill": "",
+                "x28_skill": "",
+                "status": "no-skill",
+                "distance": 0
+            }
+        ]
+    },
+    {
+        "id": "30368429",
+        "existing_skills": [
+            "Fachwissen weiterleiten",
+            "Gruppenleiter unterstützen",
+            "Kindergartengruppe führen",
+            "Alltag planen",
+            "Feste organisieren",
+            "Mitarbeitergespräche führen",
+            "Deutsch schreiben",
+            "Zuverlässigkeit zeigen",
+            "Motivation fördern",
+            "Belastbarkeit zeigen",
+            "Umgangsformen anwenden",
+            "Kinderarbeit leisten",
+            "Teamarbeit üben"
+        ],
+        "existing_skill_phrases": [
+            "Fachwissen erlernen",
+            "Gruppenleitung unterstützen",
+            "Kindergruppe führen",
+            "Krippenalltag mitplanen",
+            "Feiern und Feste organisieren",
+            "Mitarbeitergespräche führen",
+            "Deutschkenntnisse (mündlich und schriftlich)",
+            "Zuverlässigkeit",
+            "Motivation",
+            "Belastbarkeit",
+            "Umgangsformen",
+            "Freude an der Arbeit mit Kindern",
+            "Teamarbeit"
+        ],
+        "mismatch_skills": [
+            "Krippenalltag mitplanen",
+            "Fachwissen erlernen",
+            "Freude an Arbeit zeigen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Krippenalltag mitplanen",
+                "x28_skill": "Alltag planen",
+                "status": "novelty-detection-fail",
+                "distance": 1.55
+            },
+            {
+                "mismatch_skill": "Fachwissen erlernen",
+                "x28_skill": "Fachwissen weiterleiten",
+                "status": "novelty-detection-fail",
+                "distance": 0.93
+            },
+            {
+                "mismatch_skill": "Freude an Arbeit zeigen",
+                "x28_skill": "Freude optimieren",
+                "status": "match-fail",
+                "distance": 1.35
+            }
+        ]
+    },
+    {
+        "id": "32431429",
+        "existing_skills": [
+            "Kinderarbeit leisten",
+            "Jugendarbeit leisten",
+            "Elternarbeit durchführen",
+            "Freude optimieren",
+            "Selbstständigkeit fördern",
+            "Initiative planen",
+            "Zusammenarbeit üben",
+            "Schulgemeinde unterstützen",
+            "Forschung leiten",
+            "Weiterbildung nutzen"
+        ],
+        "existing_skill_phrases": [
+            "Freude an der Arbeit mit Kindern",
+            "Freude an der Arbeit mit Jugendlichen",
+            "Freude an der Arbeit mit Eltern",
+            "Freude an der Arbeit mit Kollegen",
+            "Selbstständigkeit",
+            "Initiative",
+            "kollegiale Zusammenarbeit",
+            "Mitgestaltung der Schulgemeinschaft",
+            "Interesse an Forschung",
+            "Interesse an Weiterbildung"
+        ],
+        "mismatch_skills": [
+            "Kollegialität fördern",
+            "Schule mitgestalten"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Kollegialität fördern",
+                "x28_skill": "Kollaboration fördern",
+                "status": "match-fail",
+                "distance": 1.44
+            },
+            {
+                "mismatch_skill": "Schule mitgestalten",
+                "x28_skill": "Schule gestalten",
+                "status": "match-fail",
+                "distance": 0.48
+            }
+        ]
+    },
+    {
+        "id": "32110896",
+        "existing_skills": [
+            "Elternarbeit durchführen",
+            "Zusammenarbeit üben",
+            "Mitarbeiter engagieren",
+            "Positive Verstärkung einsetzen",
+            "Räumlich denken",
+            "Projekt mitwirken",
+            "Projekt mittragen"
+        ],
+        "existing_skill_phrases": [
+            "Aktive Elternarbeit",
+            "Enge Zusammenarbeit",
+            "Engagierte Mitwirkung",
+            "Positive Grundhaltung",
+            "Mitdenken",
+            "Mitwirken",
+            "Mittragen"
+        ],
+        "mismatch_skills": [
+            "Grundhaltung zeigen",
+            "Mitwirkung leisten",
+            "Engagement zeigen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Grundhaltung zeigen",
+                "x28_skill": "Grundierung auftragen",
+                "status": "match-fail",
+                "distance": 1.52
+            },
+            {
+                "mismatch_skill": "Mitwirkung leisten",
+                "x28_skill": "Projekt mitwirken",
+                "status": "novelty-detection-fail",
+                "distance": 1.35
+            },
+            {
+                "mismatch_skill": "Engagement zeigen",
+                "x28_skill": "Engagement zeigen",
+                "status": "match-fail",
+                "distance": 0.0
+            }
+        ]
+    },
+    {
+        "id": "32606541",
+        "existing_skills": [
+            "Lehrperson führen",
+            "Teamtraining betreuen",
+            "Kommunikationsfähigkeit nutzen",
+            "Team repräsentieren",
+            "Verantwortung übernehmen",
+            "Weiterentwicklung durchführen",
+            "Interaktiven Unterricht gestalten",
+            "Freude optimieren",
+            "Persönlichkeit fördern"
+        ],
+        "existing_skill_phrases": [
+            "Erfahrung als Lehrperson",
+            "Teamteaching",
+            "Kommunikationsfähigkeit",
+            "Teamorientierung",
+            "Mitverantwortung übernehmen",
+            "Weiterentwicklung",
+            "Interesse an innovativen Unterrichtsformen",
+            "Freude an der Arbeit",
+            "persönliche Grundhaltung"
+        ],
+        "mismatch_skills": [
+            "Teamteaching durchführen",
+            "innovative Unterrichtsformen anwenden",
+            "Wertorientierung leben"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Teamteaching durchführen",
+                "x28_skill": "Teamschulung durchführen",
+                "status": "match-fail",
+                "distance": 1.21
+            },
+            {
+                "mismatch_skill": "innovative Unterrichtsformen anwenden",
+                "x28_skill": "Unterrichtstechniken anwenden",
+                "status": "match-fail",
+                "distance": 1.36
+            },
+            {
+                "mismatch_skill": "Wertorientierung leben",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 1.85
+            }
+        ]
+    },
+    {
+        "id": "30561159",
+        "existing_skills": [],
+        "existing_skill_phrases": [],
+        "mismatch_skills": [
+            "Metzgereimaschinen reparieren",
+            "Metzgereimaschinen warten",
+            "Halbautomatische Hamburgerautomaten entwickeln",
+            "Servicearbeiten durchführen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Metzgereimaschinen reparieren",
+                "x28_skill": "Maschinen reparieren",
+                "status": "match-fail",
+                "distance": 0.97
+            },
+            {
+                "mismatch_skill": "Metzgereimaschinen warten",
+                "x28_skill": "Maschinen warten",
+                "status": "match-fail",
+                "distance": 1.13
+            },
+            {
+                "mismatch_skill": "Halbautomatische Hamburgerautomaten entwickeln",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 1.88
+            },
+            {
+                "mismatch_skill": "Servicearbeiten durchführen",
+                "x28_skill": "Servicearbeit durchführen",
+                "status": "match-fail",
+                "distance": 0.1
+            }
+        ]
+    },
+    {
+        "id": "30195208",
+        "existing_skills": [
+            "Inbetriebnahmen durchführen",
+            "Maschinenbereitstellung unterstützen"
+        ],
+        "existing_skill_phrases": [
+            "Inbetriebnahmen durchführen",
+            "Maschinen und Anlagen unterstützen"
+        ],
+        "mismatch_skills": [
+            "Maschinen und Anlagen unterstützen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Maschinen und Anlagen unterstützen",
+                "x28_skill": "Maschinenbereitstellung unterstützen",
+                "status": "novelty-detection-fail",
+                "distance": 0.95
+            }
+        ]
+    },
+    {
+        "id": "32542130",
+        "existing_skills": [
+            "Beziehung aufbauen",
+            "Schüler fördern",
+            "Selbständigkeit fördern",
+            "Natürliche Auslese untersuchen",
+            "Team führen",
+            "Flexibilität zeigen",
+            "Im Team zusammenarbeiten",
+            "Im Team zusammenarbeiten",
+            "Im Team zusammenarbeiten",
+            "Arbeitsgruppen leiten",
+            "Unterstützung unterstützen"
+        ],
+        "existing_skill_phrases": [
+            "Beziehung aufbauen",
+            "Schülerinnen und Schüler fördern",
+            "Selbständigkeit unterstützen",
+            "natürliche Autorität",
+            "Team führen",
+            "flexibel reagieren",
+            "Zusammenarbeit im Unterrichtsteam",
+            "Zusammenarbeit im Jahrgangsteam",
+            "Zusammenarbeit im Stufenteam",
+            "Zusammenarbeit in Arbeitsgruppen",
+            "Unterstützung zurückgreifen"
+        ],
+        "mismatch_skills": [
+            "Autorität ausstrahlen",
+            "auf Unterrichtssituationen reagieren",
+            "Unterstützung erhalten"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Autorität ausstrahlen",
+                "x28_skill": "Autoritäten untersuchen",
+                "status": "match-fail",
+                "distance": 1.49
+            },
+            {
+                "mismatch_skill": "auf Unterrichtssituationen reagieren",
+                "x28_skill": "Unterrichtsstil anpassen",
+                "status": "match-fail",
+                "distance": 1.64
+            },
+            {
+                "mismatch_skill": "Unterstützung erhalten",
+                "x28_skill": "Unterstützung unterstützen",
+                "status": "novelty-detection-fail",
+                "distance": 0.61
+            }
+        ]
+    },
+    {
+        "id": "31022597",
+        "existing_skills": [
+            "Soziologie lehren",
+            "Evaluation durchführen",
+            "Histologie anwenden",
+            "Lehrerfortbildungen durchführen",
+            "Collaboration-Tools nutzen",
+            "Bildung entwickeln",
+            "Administrative Arbeiten durchführen",
+            "Schulungsprogramme gestalten",
+            "Curriculum gestalten",
+            "Medizinische Lehrinhalte vermitteln",
+            "Lernprobleme erkennen",
+            "Innovationsprojekt durchführen",
+            "The Team nutzen",
+            "Team koordinieren",
+            "Planung organisieren",
+            "Teamgespräche leiten",
+            "Akademische Publikationen verfassen"
+        ],
+        "existing_skill_phrases": [
+            "développement et enseignement de l'histologie",
+            "évaluation des étudiant-es",
+            "enseignement en histologie",
+            "formation continue des enseignant-es",
+            "collaboration à des projets de recherche",
+            "développement de l'enseignement",
+            "charges administratives",
+            "gestion de programme de formation",
+            "connaissance curriculaire",
+            "enseignement dans la formation médicale",
+            "apprentissage par problèmes",
+            "innovation et développement de projets",
+            "fédérer une équipe",
+            "coordonner eine équipe",
+            "organiser und planifier",
+            "esprit d'équipe",
+            "publications et rayonnement académique"
+        ],
+        "mismatch_skills": [
+            "Histologie entwickeln",
+            "Histologie lehren",
+            "Studenten evaluieren",
+            "Projekte föderieren",
+            "In biomedizinischen Wissenschaften unterrichten"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Histologie entwickeln",
+                "x28_skill": "Histologie anwenden",
+                "status": "novelty-detection-fail",
+                "distance": 0.73
+            },
+            {
+                "mismatch_skill": "Histologie lehren",
+                "x28_skill": "Histologie anwenden",
+                "status": "novelty-detection-fail",
+                "distance": 0.95
+            },
+            {
+                "mismatch_skill": "Studenten evaluieren",
+                "x28_skill": "Studenten beraten",
+                "status": "match-fail",
+                "distance": 1.16
+            },
+            {
+                "mismatch_skill": "Projekte föderieren",
+                "x28_skill": "Projekte führen",
+                "status": "match-fail",
+                "distance": 1.07
+            },
+            {
+                "mismatch_skill": "In biomedizinischen Wissenschaften unterrichten",
+                "x28_skill": "Medizinwissenschaft lehren",
+                "status": "match-fail",
+                "distance": 1.28
+            }
+        ]
+    },
+    {
+        "id": "30211999",
+        "existing_skills": [],
+        "existing_skill_phrases": [],
+        "mismatch_skills": [
+            "Neue Autorität anwenden"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Neue Autorität anwenden",
+                "x28_skill": "Autoritäten untersuchen",
+                "status": "match-fail",
+                "distance": 1.68
+            }
+        ]
+    },
+    {
+        "id": "31383504",
+        "existing_skills": [
+            "Fachgebiet leiten",
+            "Didaktische Methoden anwenden",
+            "Unterricht gestalten",
+            "Studierender führen",
+            "Schüler motivieren",
+            "Engagement zeigen",
+            "Sozialkompetenzen vermitteln",
+            "Unterrichtsplanung erstellen",
+            "Didaktische Innovationen umsetzen",
+            "Unterricht durchführen",
+            "Unterrichtsqualität sicherstellen",
+            "Lerninhalte vermitteln",
+            "Schaltanlage aufbauen",
+            "Signale verarbeiten",
+            "Signal nutzen",
+            "Funktionsweise optimieren",
+            "Mechanische Eigenschaften bewerten",
+            "Transfer vorbereiten",
+            "Simulationswerkzeug anwenden"
+        ],
+        "existing_skill_phrases": [
+            "Berufserfahrung im Fachgebiet",
+            "Methodisch-didaktische Erfahrung",
+            "Unterricht Freude",
+            "Studierende führen",
+            "Studierende motivieren",
+            "persönliches Engagement",
+            "Sozialkompetenzen",
+            "Planung des Unterrichts",
+            "didaktische Umsetzung",
+            "Durchführung des Unterrichts",
+            "Unterrichtsqualität sicherstellen",
+            "Lerninhalte vertiefen",
+            "Schaltungen aufbauen",
+            "Signalerfassung",
+            "Signalkonditionierung",
+            "Funktionsweise von Leistungshalbleitern betrachten",
+            "Eigenschaften von Leistungshalbleitern betrachten",
+            "Transfer in die Praktikas erstellen",
+            "Simulationswerkzeuge verwenden"
+        ],
+        "mismatch_skills": [
+            "Signale konditionieren",
+            "Leistungshalbleiter betrachten",
+            "Stromrichtertopologien analysieren",
+            "Pulsmuster analysieren",
+            "Praktika erstellen"
+        ],
+        "match_results": [
+            {
+                "mismatch_skill": "Signale konditionieren",
+                "x28_skill": "Signale verarbeiten",
+                "status": "novelty-detection-fail",
+                "distance": 1.06
+            },
+            {
+                "mismatch_skill": "Leistungshalbleiter betrachten",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 1.81
+            },
+            {
+                "mismatch_skill": "Stromrichtertopologien analysieren",
+                "x28_skill": "",
+                "status": "wo-fail",
+                "distance": 1.9
+            },
+            {
+                "mismatch_skill": "Pulsmuster analysieren",
+                "x28_skill": "Puls bewerten",
+                "status": "match-fail",
+                "distance": 1.31
+            },
+            {
+                "mismatch_skill": "Praktika erstellen",
+                "x28_skill": "Praktika organisieren",
+                "status": "match-fail",
+                "distance": 0.87
+            }
+        ]
+    }
+]
